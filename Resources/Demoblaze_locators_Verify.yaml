@@ -1,0 +1,8 @@
+BannerDiscount: //*[@class="img-responsive"]
+TombolLogin: //*[@class="login"]
+ContactUs: //a[@title="Contact Us"]
+TombolSignIn: //a[contains(text(),'Sign in')]
+searchInput: //*[@id="search_query_top"] 
+cart: //a[@title="View my shopping cart"]
+ProductItem: //*[@id="homefeatured"]/li[1]
+Footer: //*[@class="footer-container"]

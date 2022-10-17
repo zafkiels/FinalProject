@@ -1,0 +1,5 @@
+TombolSignIn: //a[contains(text(),'Sign in')]
+EmailAddress: //*[@id="email"]
+Password: //*[@id="passwd"]
+ButtonSubmit: //*[@id="SubmitLogin"]
+Logout: //*[@class="logout" and contains(text(), 'Sign out')]
